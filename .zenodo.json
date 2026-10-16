@@ -1,0 +1,11 @@
+{
+  "title": "Enacted U.S. AI laws (AI Laws by State)",
+  "upload_type": "dataset",
+  "description": "Enacted state, D.C. and federal laws with a substantive provision about artificial intelligence, one row per law, with enactment and effective dates, topics, and links to the official text. Updated weekly from https://www.ailawsbystate.com.",
+  "creators": [{"name": "AI Laws by State"}],
+  "license": "cc-by-4.0",
+  "keywords": ["artificial intelligence", "AI regulation", "state law", "legislation", "United States"],
+  "related_identifiers": [
+    {"identifier": "https://www.ailawsbystate.com/press/embeds", "relation": "isDerivedFrom", "scheme": "url"}
+  ]
+}

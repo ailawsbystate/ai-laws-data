@@ -1,0 +1,25 @@
+{
+  "source": "https://www.ailawsbystate.com/press/embeds",
+  "as_of": "2026-10-15",
+  "fetched_at": "2026-10-16T00:19:01Z",
+  "laws": 535,
+  "totals": {
+    "all": 535,
+    "states_dc": 525,
+    "federal": 10,
+    "other": 0,
+    "states_with": 49,
+    "dc": 3
+  },
+  "license": {
+    "name": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "AI Laws by State (ailawsbystate.com)"
+  },
+  "fingerprint": "23851515911b62def300df8321a819cf7e421bf7ef5df0cf4e00cb119a0d8c91",
+  "sha256": {
+    "ai-laws.csv": "f953d72f0abdd98b9ee2acf37d21376a0575f5d8e9cd5d3762a32c22abf528af",
+    "ai-laws-by-state.csv": "63e8a1281a5ba250aaeed6d538afc1e8657add2fc70abd16241a43124b8856d3",
+    "ai-laws.json": "3b66189d2ba7c0617a4a6bcc6375d82e3a33badb2e68c07905f9d6a349358538"
+  }
+}

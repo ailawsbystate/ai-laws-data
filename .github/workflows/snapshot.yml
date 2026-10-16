@@ -1,0 +1,42 @@
+name: Weekly data snapshot
+
+on:
+  schedule:
+    - cron: "17 11 * * 1"   # Mondays, 11:17 UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/snapshot.yml"
+      - "scripts/snapshot.py"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: snapshot
+  cancel-in-progress: false
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Fetch and check the published data
+        run: python scripts/snapshot.py
+      - name: Commit if the data changed
+        run: |
+          git config user.name "AI Laws by State Bot"
+          git config user.email "computer@ailawsbystate.com"
+          git add data snapshots
+          if git diff --cached --quiet; then
+            echo "No change to commit."
+            exit 0
+          fi
+          AS_OF=$(python -c "import json;print(json.load(open('data/manifest.json'))['as_of'])")
+          LAWS=$(python -c "import json;print(json.load(open('data/manifest.json'))['laws'])")
+          git commit -m "Data as of ${AS_OF}: ${LAWS} enacted AI laws"
+          git push

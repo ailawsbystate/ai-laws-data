@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below and give the as-of date of the copy you used."
+type: dataset
+title: "Enacted U.S. AI laws"
+abstract: "Enacted state, D.C. and federal laws with a substantive provision about artificial intelligence, one row per law, with enactment and effective dates, topics, and links to the official text. Updated weekly from AI Laws by State."
+authors:
+  - name: "AI Laws by State"
+    website: "https://www.ailawsbystate.com"
+repository-code: "https://github.com/ailawsbystate/ai-laws-data"
+url: "https://www.ailawsbystate.com/press/embeds"
+license: CC-BY-4.0
+keywords:
+  - artificial intelligence
+  - AI regulation
+  - state law
+  - legislation
+  - United States

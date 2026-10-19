@@ -1,8 +1,8 @@
 {
   "source": "AI Laws by State",
   "url": "https://www.ailawsbystate.com/press/embeds",
-  "as_of": "2026-10-15",
-  "generated_at": "2026-10-16T00:19:01.224777Z",
+  "as_of": "2026-10-19",
+  "generated_at": "2026-10-19T17:28:34.572844Z",
   "definition": "https://www.ailawsbystate.com/methodology#what-counts",
   "license": {
     "name": "CC BY 4.0",
@@ -518,7 +518,7 @@
         "AI in hiring and work"
       ],
       "page_url": "https://www.ailawsbystate.com/law/CA/ab-2504-community-colleges-artificial-intelligence-employment-dislocation-pilot",
-      "official_text_url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB2504"
+      "official_text_url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB2504"
     },
     {
       "jurisdiction_code": "CA",

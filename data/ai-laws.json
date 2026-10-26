@@ -1,8 +1,8 @@
 {
   "source": "AI Laws by State",
   "url": "https://www.ailawsbystate.com/press/embeds",
-  "as_of": "2026-10-19",
-  "generated_at": "2026-10-19T17:28:34.572844Z",
+  "as_of": "2026-10-26",
+  "generated_at": "2026-10-26T17:23:48.961024Z",
   "definition": "https://www.ailawsbystate.com/methodology#what-counts",
   "license": {
     "name": "CC BY 4.0",
@@ -91,7 +91,7 @@
         "Automated decision systems"
       ],
       "page_url": "https://www.ailawsbystate.com/law/AL/sb-63-health-care-plans-to-regulate-the-use-of-artificial-intelligence-in",
-      "official_text_url": "https://alison.legislature.state.al.us/bill-search?tab=0&sessionAbbreviation=2026RS&instrumentNbr=SB63"
+      "official_text_url": "https://alison.legislature.state.al.us/bill-search"
     },
     {
       "jurisdiction_code": "AL",

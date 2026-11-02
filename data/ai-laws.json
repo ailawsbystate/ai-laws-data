@@ -1,8 +1,8 @@
 {
   "source": "AI Laws by State",
   "url": "https://www.ailawsbystate.com/press/embeds",
-  "as_of": "2026-10-26",
-  "generated_at": "2026-10-26T17:23:48.961024Z",
+  "as_of": "2026-11-02",
+  "generated_at": "2026-11-02T20:47:06.448939Z",
   "definition": "https://www.ailawsbystate.com/methodology#what-counts",
   "license": {
     "name": "CC BY 4.0",
@@ -10,8 +10,8 @@
     "attribution": "AI Laws by State (ailawsbystate.com)"
   },
   "totals": {
-    "all": 535,
-    "states_dc": 525,
+    "all": 536,
+    "states_dc": 526,
     "federal": 10,
     "other": 0,
     "states_with": 49,
@@ -1385,7 +1385,7 @@
         "AI disclosure and transparency"
       ],
       "page_url": "https://www.ailawsbystate.com/law/CA/sb253-state-bar-exam-ai-use-notice",
-      "official_text_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB253"
+      "official_text_url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB253"
     },
     {
       "jurisdiction_code": "CA",
@@ -3341,7 +3341,7 @@
         "Deepfakes"
       ],
       "page_url": "https://www.ailawsbystate.com/law/LA/hb-639-elections-campaigns-requires-disclosure-of-the-use-of-artificial",
-      "official_text_url": "https://www.legis.la.gov/Legis/BillInfo.aspx?s=26RS&b=HB639&sbi=y"
+      "official_text_url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=250501"
     },
     {
       "jurisdiction_code": "LA",
@@ -3434,7 +3434,7 @@
         "AI in education"
       ],
       "page_url": "https://www.ailawsbystate.com/law/LA/sb-347-colleges-universities-provides-for-the-crime-of-unlawful-deepfake-to-be",
-      "official_text_url": "https://www.legis.la.gov/Legis/BillInfo.aspx?s=26RS&b=SB347&sbi=y"
+      "official_text_url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=250875"
     },
     {
       "jurisdiction_code": "LA",
@@ -5321,6 +5321,21 @@
       ],
       "page_url": "https://www.ailawsbystate.com/law/NY/s-8828-relates-to-transparency-and-safety-requirements-for-developers-of",
       "official_text_url": "https://www.nysenate.gov/legislation/bills/2025/S8828"
+    },
+    {
+      "jurisdiction_code": "NY",
+      "jurisdiction": "New York",
+      "bill_number": "S9051",
+      "title": "Prohibits artificial intelligence companions from using features which are considered unsafe for minors",
+      "enacted_date": "2026-10-28",
+      "enacted_date_source": "last_action",
+      "effective_date": null,
+      "topics": [
+        "Chatbots and consumer AI",
+        "AI disclosure and transparency"
+      ],
+      "page_url": "https://www.ailawsbystate.com/law/NY/s-9051-prohibits-artificial-intelligence-chatbots-from-using-features-which-are",
+      "official_text_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S9051?summary=&detail="
     },
     {
       "jurisdiction_code": "NY",

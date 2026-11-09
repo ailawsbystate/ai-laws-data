@@ -1,8 +1,8 @@
 {
   "source": "AI Laws by State",
   "url": "https://www.ailawsbystate.com/press/embeds",
-  "as_of": "2026-11-02",
-  "generated_at": "2026-11-02T20:47:06.448939Z",
+  "as_of": "2026-11-09",
+  "generated_at": "2026-11-09T21:25:42.669498Z",
   "definition": "https://www.ailawsbystate.com/methodology#what-counts",
   "license": {
     "name": "CC BY 4.0",
@@ -201,7 +201,7 @@
       "title": "To Amend The Frank Broyles Publicity Rights Protection Act Of 2016; And To Provide Protections For An Individual Whose Photograph, Voice, Or Likeness Is Reproduced Through Means Of Artificial Intelligence And Used Commercially.",
       "enacted_date": "2025-02-25",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2025-08-05",
       "topics": [
         "Digital likeness and voice"
       ],
@@ -229,7 +229,7 @@
       "title": "To amend the law concerning autonomous vehicles",
       "enacted_date": "2021-04-08",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2021-07-28",
       "topics": [
         "Self-driving vehicles",
         "AI liability"
@@ -244,7 +244,7 @@
       "title": "To allow the operation of a personal delivery device in pedestrian areas and certain streets and roads",
       "enacted_date": "2021-04-26",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2021-07-28",
       "topics": [
         "Self-driving vehicles",
         "Robots"
@@ -288,7 +288,7 @@
       "title": "AN ACT TO AMEND THE LAW CONCERNING CRIMINAL OFFENSES RELATED TO POSSESSION OF SEXUALLY EXPLICIT MATERIAL THAT DEPICTS A CHILD; TO INCLUDE A COMPUTER GENERATED IMAGE THAT IS INDISTINGUISHABLE FROM THE IMAGE OF A CHILD; AND FOR OTHER PURPOSES.",
       "enacted_date": "2025-04-22",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2025-08-05",
       "topics": [
         "AI-generated child sexual abuse material"
       ],
@@ -317,7 +317,7 @@
       "title": "TO CREATE A PRIVATE RIGHT OF ACTION AGAINST A SOCIAL MEDIA PLATFORM THAT CAUSES HARM; AND TO IMPOSE A CIVIL PENALTY ON A SOCIAL MEDIA PLATFORM THAT KNOWINGLY AND WILLFULLY CONTRIBUTES TO A MINOR'S SUICIDE OR SUICIDE ATTEMPT.",
       "enacted_date": "2025-04-21",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2025-08-05",
       "topics": [
         "Social media and online platforms",
         "AI liability"
@@ -348,7 +348,7 @@
       "title": "sexual assault kits; victim notification",
       "enacted_date": "2023-05-19",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2023-10-30",
       "topics": [
         "Government use of AI",
         "AI in law enforcement",
@@ -364,7 +364,7 @@
       "title": "An Act amending sections 13-705 and 13-3551, Arizona Revised Statutes; relating to sexual exploitation of children.",
       "enacted_date": "2025-05-12",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2025-09-26",
       "topics": [
         "AI-generated child sexual abuse material"
       ],
@@ -378,7 +378,7 @@
       "title": "An Act amending sections 28-101, 28-661, 28-662, 28-663, 28-664, 28-665, 28-666, 28-907, 28-909, 28-941, 28-956, 28-957, 28-957.01, 28-966, 28-2157 and 28-3315, Arizona Revised Statutes; amending title 28, Arizona Revised Statutes, by adding chapter 31; relating to motor vehicles.",
       "enacted_date": "2021-03-24",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2021-09-29",
       "topics": [
         "Self-driving vehicles"
       ],
@@ -392,7 +392,7 @@
       "title": "An Act amending section 13-2006, Arizona Revised Statutes; relating to forgery.",
       "enacted_date": "2025-05-13",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2025-09-26",
       "topics": [
         "Deepfakes",
         "Digital likeness and voice"
@@ -407,7 +407,7 @@
       "title": "An Act amending section 28-101, Arizona Revised Statutes, as amended by Laws 2019, chapter 89, section 1; repealing section 28-101, Arizona Revised Statutes, as amended by Laws 2019, chapter 89, section 1; amending title 28, chapter 3, Arizona Revised Statutes, by adding article 22; relating to personal delivery devices.",
       "enacted_date": "2020-06-05",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2020-08-25",
       "topics": [
         "Self-driving vehicles",
         "Robots"
@@ -422,7 +422,7 @@
       "title": "An Act amending section 28-101, Arizona Revised Statutes; relating to autonomous vehicles.",
       "enacted_date": "2025-03-31",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2025-09-26",
       "topics": [
         "Self-driving vehicles"
       ],
@@ -436,7 +436,7 @@
       "title": "Election communications; deepfakes; prohibition",
       "enacted_date": "2024-05-29",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2024-09-14",
       "topics": [
         "AI in political ads",
         "Deepfakes"
@@ -451,7 +451,7 @@
       "title": "An Act amending section 13-1425, Arizona Revised Statutes; relating to sexual offenses.",
       "enacted_date": "2025-05-02",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2025-09-26",
       "topics": [
         "AI-generated intimate images",
         "Deepfakes"
@@ -587,7 +587,7 @@
       "title": "California Consumer Privacy Act of 2018: personal information.",
       "enacted_date": "2024-09-28",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2025-01-01",
       "topics": [
         "AI and privacy"
       ],
@@ -601,7 +601,7 @@
       "title": "Budget Act of 2025.",
       "enacted_date": "2025-06-27",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2025-06-27",
       "topics": [
         "Government use of AI"
       ],
@@ -615,7 +615,7 @@
       "title": "Budget Act of 2024.",
       "enacted_date": "2024-06-26",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2024-06-26",
       "topics": [
         "Government use of AI"
       ],
@@ -629,7 +629,7 @@
       "title": "Student personal information.",
       "enacted_date": "2026-09-10",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2027-01-01",
       "topics": [
         "AI and privacy",
         "AI in education"
@@ -689,7 +689,7 @@
       "title": "Health curriculum framework: human trafficking and online safety.",
       "enacted_date": "2026-09-30",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2027-01-01",
       "topics": [
         "AI in education",
         "Deepfakes"
@@ -704,7 +704,7 @@
       "title": "Autonomous vehicles.",
       "enacted_date": "2024-09-27",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2026-07-01",
       "topics": [
         "Self-driving vehicles"
       ],
@@ -733,7 +733,7 @@
       "title": "Crimes: child pornography.",
       "enacted_date": "2024-09-29",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2025-01-01",
       "topics": [
         "AI-generated child sexual abuse material"
       ],
@@ -762,7 +762,7 @@
       "title": "Workplace surveillance tools.",
       "enacted_date": "2026-09-30",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2027-01-01",
       "topics": [
         "AI in hiring and work"
       ],
@@ -805,7 +805,7 @@
       "title": "Tenancy: digitally altered images: disclosure.",
       "enacted_date": "2026-09-27",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2027-01-01",
       "topics": [
         "AI in housing and real estate",
         "AI disclosure and transparency"
@@ -820,7 +820,7 @@
       "title": "Pupil instruction: digital wellness.",
       "enacted_date": "2026-09-10",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2027-01-01",
       "topics": [
         "AI in education"
       ],
@@ -834,7 +834,7 @@
       "title": "Postsecondary education: sexual harassment, harassment, intimidation, and bullying policies: student training.",
       "enacted_date": "2026-09-20",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2027-08-01",
       "topics": [
         "AI-generated intimate images",
         "AI in education"
@@ -864,7 +864,7 @@
       "title": "Contracts against public policy: personal or professional services: digital replicas.",
       "enacted_date": "2024-09-17",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2025-01-01",
       "topics": [
         "Digital likeness and voice"
       ],
@@ -923,7 +923,7 @@
       "title": "Artificial intelligence.",
       "enacted_date": "2024-09-28",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2025-01-01",
       "topics": [
         "Broad AI governance",
         "Government use of AI"
@@ -938,7 +938,7 @@
       "title": "Telecommunications: automatic dialing-announcing devices: artificial voices.",
       "enacted_date": "2024-09-20",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2025-01-01",
       "topics": [
         "AI robocalls",
         "AI disclosure and transparency"
@@ -1011,7 +1011,7 @@
       "title": "Depiction of individual using digital or electronic technology: sexually explicit material: cause of action.",
       "enacted_date": "2019-10-03",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2020-01-01",
       "topics": [
         "AI-generated intimate images",
         "Deepfakes"
@@ -1041,7 +1041,7 @@
       "title": "Elections: deceptive audio or visual media.",
       "enacted_date": "2026-09-19",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2027-01-01",
       "topics": [
         "Deepfakes",
         "AI in political ads"
@@ -1056,7 +1056,7 @@
       "title": "Elections: deceptive audio or visual media.",
       "enacted_date": "2019-10-03",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2020-01-01",
       "topics": [
         "Deepfakes",
         "AI in political ads"
@@ -1103,7 +1103,7 @@
       "title": "Elections: deceptive audio or visual media.",
       "enacted_date": "2022-09-29",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2023-01-01",
       "topics": [
         "Deepfakes",
         "AI in political ads"
@@ -1205,7 +1205,7 @@
       "title": "Budget Act of 2025.",
       "enacted_date": "2025-06-27",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2025-06-27",
       "topics": [
         "Government use of AI"
       ],
@@ -1249,7 +1249,7 @@
       "title": "Health care coverage: utilization review.",
       "enacted_date": "2024-09-28",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2025-01-01",
       "topics": [
         "AI in health care",
         "AI in insurance"
@@ -1293,7 +1293,7 @@
       "title": "Crimes: sexual exploitation of a child.",
       "enacted_date": "2026-09-10",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2027-01-01",
       "topics": [
         "AI-generated child sexual abuse material"
       ],
@@ -1321,7 +1321,7 @@
       "title": "Crimes: child pornography.",
       "enacted_date": "2024-09-29",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2025-01-01",
       "topics": [
         "AI-generated child sexual abuse material"
       ],
@@ -1335,7 +1335,7 @@
       "title": "Vehicles: consumer notices.",
       "enacted_date": "2022-09-13",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2023-01-01",
       "topics": [
         "Self-driving vehicles",
         "AI disclosure and transparency"
@@ -1350,7 +1350,7 @@
       "title": "Community colleges: personnel: qualifications.",
       "enacted_date": "2025-10-01",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2026-01-01",
       "topics": [
         "AI in education"
       ],
@@ -1379,7 +1379,7 @@
       "title": "State Bar of California.",
       "enacted_date": "2025-10-06",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2026-01-01",
       "topics": [
         "Government use of AI",
         "AI disclosure and transparency"
@@ -1394,7 +1394,7 @@
       "title": "Pretrial release: risk assessment tools.",
       "enacted_date": "2019-10-08",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2020-01-01",
       "topics": [
         "Automated decision systems",
         "AI in law enforcement"
@@ -1451,7 +1451,7 @@
       "title": "Autonomous vehicles: zero emissions.",
       "enacted_date": "2021-09-23",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2022-01-01",
       "topics": [
         "Self-driving vehicles"
       ],
@@ -1528,7 +1528,7 @@
       "title": "Independent verification organizations.",
       "enacted_date": "2026-09-09",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2027-01-01",
       "topics": [
         "Frontier AI models",
         "Government use of AI"
@@ -1572,7 +1572,7 @@
       "title": "Crimes: distribution of intimate images.",
       "enacted_date": "2024-09-19",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2025-01-01",
       "topics": [
         "AI-generated intimate images",
         "Deepfakes"
@@ -1617,7 +1617,7 @@
       "title": "Employment: technological displacement: notice.",
       "enacted_date": "2026-09-30",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2027-01-01",
       "topics": [
         "AI in hiring and work"
       ],
@@ -1631,7 +1631,7 @@
       "title": "Protecting Our Kids from Social Media Addiction Act.",
       "enacted_date": "2024-09-20",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2025-01-01",
       "topics": [
         "Social media and online platforms",
         "Automated decision systems"
@@ -1646,7 +1646,7 @@
       "title": "Sexually explicit digital images.",
       "enacted_date": "2024-09-19",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2025-01-01",
       "topics": [
         "AI-generated intimate images",
         "Social media and online platforms"
@@ -2325,7 +2325,7 @@
       "title": "Crimes and offenses; grooming a minor for indecent purposes; provide for offense",
       "enacted_date": "2024-04-24",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2024-07-01",
       "topics": [
         "AI-generated child sexual abuse material",
         "Deepfakes"
@@ -2386,7 +2386,7 @@
       "title": "An Act to amend Part 3 of Article 3 of Chapter 11 of Title 16 of the Official Code of Georgia Annotated, relating to invasion of privacy, so as to revise the prohibition on electronically transmitting or posting nude or sexually explicit photographs or videos for purposes of harassing the depicted person; to provide for an increased penalty for the electronic transmission or posting to a web page that is accessible to the general public; to provide for related matters; to repeal conflicting laws; and for other purposes.",
       "enacted_date": "2021-05-04",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2021-07-01",
       "topics": [
         "AI-generated intimate images",
         "Deepfakes"
@@ -3185,7 +3185,7 @@
       "title": "Senate Substitute for HB 2313 by Committee on Federal and State Affairs - Prohibiting the use of the artificial intelligence platform DeepSeek and other artificial intelligence platforms controlled by a country of concern on state-owned devices and on any state network and the use of genetic sequencers or operational software used for genetic analysis that is produced in a foreign adversary.",
       "enacted_date": "2025-04-08",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2025-07-01",
       "topics": [
         "Government use of AI"
       ],
@@ -3199,7 +3199,7 @@
       "title": "AN ACT concerning crimes, punishment and criminal procedure; relating to release of persons prior to trial; authorizing electronic monitoring with victim notification; modifying the culpable mental state required to commit the crime of breach of privacy; modifying the elements of the crime of blackmail related to threatened dissemination of any image, video or other recording of another identifiable person who is nude or engaged in sexual activity; and related matters (L. 2026, ch. 114).",
       "enacted_date": "2026-04-09",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2026-07-01",
       "topics": [
         "AI-generated intimate images",
         "Deepfakes"
@@ -3214,7 +3214,7 @@
       "title": "An Act concerning crimes, punishment and criminal procedure; relating to sexual extortion; requiring the attorney general to prepare and provide educational materials and information concerning such crime; increasing the penalties for such crime when an offender is 18 years of age or older and the victim is less than 18 years of age or a dependent adult; creating the crimes of aggravated sexual extortion causing great bodily harm and aggravated sexual extortion causing death; amending K.S.A. 21-5515 and repealing the existing section.",
       "enacted_date": "2026-04-06",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2026-07-01",
       "topics": [
         "Deepfakes",
         "AI-generated intimate images"
@@ -3259,7 +3259,7 @@
       "title": "AN ACT relating to crimes and punishments.",
       "enacted_date": "2024-03-28",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2024-07-15",
       "topics": [
         "AI-generated child sexual abuse material"
       ],
@@ -3273,7 +3273,7 @@
       "title": "AN ACT relating to possession or viewing of matter portraying a sexual performance by a minor.",
       "enacted_date": "2026-04-13",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2026-07-15",
       "topics": [
         "AI-generated child sexual abuse material"
       ],
@@ -3287,7 +3287,7 @@
       "title": "AN ACT relating to privacy protection.",
       "enacted_date": "2026-04-10",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2026-07-15",
       "topics": [
         "AI in law enforcement",
         "AI and privacy"
@@ -3302,7 +3302,7 @@
       "title": "AN ACT relating to autonomous vehicles.",
       "enacted_date": "2024-04-12",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2024-07-15",
       "topics": [
         "Self-driving vehicles"
       ],
@@ -3531,7 +3531,7 @@
       "title": "An Act to prevent abuse and exploitation",
       "enacted_date": "2024-06-20",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2024-09-18",
       "topics": [
         "AI-generated intimate images",
         "Deepfakes"
@@ -3904,7 +3904,7 @@
       "title": "Resolve, Directing the Maine Arts Commission to Study Federal and National Efforts to Protect Artists from Copyright Infringement by Artificial Intelligence Companies and Users and to Monitor Educational Use",
       "enacted_date": "2026-01-11",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2026-07-29",
       "topics": [
         "Digital likeness and voice",
         "Government use of AI"
@@ -3951,7 +3951,7 @@
       "title": "An Act to Protect Individuals from the Threatened Unauthorized Dissemination of Certain Private Images, Including Artificially Generated Private Images",
       "enacted_date": "2025-06-20",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2025-09-24",
       "topics": [
         "AI-generated intimate images",
         "Deepfakes"
@@ -3966,7 +3966,7 @@
       "title": "An Act to Regulate the Use of Artificial Intelligence in Providing Certain Mental Health Services",
       "enacted_date": "2026-04-13",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2026-07-29",
       "topics": [
         "AI in health care",
         "Chatbots and consumer AI",
@@ -4161,7 +4161,7 @@
       "title": "Judiciary, public safety, and corrections policy and finance bill (Laws 2025, chapter 35), including article 4, section 12 on child sexual abuse material created with generative artificial intelligence",
       "enacted_date": "2025-05-23",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2025-08-01",
       "topics": [
         "AI-generated child sexual abuse material"
       ],
@@ -4190,7 +4190,7 @@
       "title": "Commerce policy bill (Laws 2026, chapter 124), including article 3, section 6 barring utilization review organizations from using artificial intelligence exclusively to make adverse determinations",
       "enacted_date": "2026-05-27",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2027-01-01",
       "topics": [
         "AI in insurance",
         "AI in health care",
@@ -4251,7 +4251,7 @@
       "title": "Omnibus Public Safety policy bill (Laws 2026, chapter 97), including article 3, section 3 adding forged digital likenesses to the identity theft statute (Minn. Stat. 609.527)",
       "enacted_date": "2026-05-18",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2026-08-01",
       "topics": [
         "Deepfakes",
         "Digital likeness and voice"
@@ -4566,7 +4566,7 @@
       "title": "AN ACT to amend and reenact subsection 13 of section 12.1-27.1-01 and section 12.1-27.1-03.3 of the North Dakota Century Code, relating to sexually expressive images; and to provide a penalty.",
       "enacted_date": "2025-04-21",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2025-08-01",
       "topics": [
         "AI-generated intimate images",
         "Deepfakes"
@@ -4581,7 +4581,7 @@
       "title": "AN ACT to amend and reenact subsection 8 of section 1-01-49 of the North Dakota Century Code, relating to the definition of person; and to declare an emergency.",
       "enacted_date": "2023-04-11",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2023-04-12",
       "topics": [
         "AI liability"
       ],
@@ -4595,7 +4595,7 @@
       "title": "AN ACT to amend and reenact sections 12.1-27.2-01 and 12.1-27.2-04.1 of the North Dakota Century Code, relating to a prohibition on possessing certain computer-generated images; and to provide a penalty.",
       "enacted_date": "2025-04-21",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2025-08-01",
       "topics": [
         "AI-generated child sexual abuse material",
         "Deepfakes"
@@ -4610,7 +4610,7 @@
       "title": "Automated vehicle network companies and autonomous vehicle operations",
       "enacted_date": "2019-04-10",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2019-08-01",
       "topics": [
         "Self-driving vehicles"
       ],
@@ -4880,7 +4880,7 @@
       "title": "AN ACT RELATING TO ELECTIONS; AMENDING AND ENACTING SECTIONS OF THE CAMPAIGN REPORTING ACT BY ADDING DISCLAIMER REQUIREMENTS FOR ADVERTISEMENTS CONTAINING MATERIALLY DECEPTIVE MEDIA; CREATING THE CRIME OF DISTRIBUTING OR ENTERING INTO AN AGREEMENT WITH ANOTHER PERSON TO DISTRIBUTE MATERIALLY DECEPTIVE MEDIA; ADDING DEFINITIONS; PROVIDING PENALTIES.",
       "enacted_date": "2024-03-05",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2024-05-15",
       "topics": [
         "AI in political ads",
         "Deepfakes",
@@ -4957,7 +4957,7 @@
       "title": "AN ACT relating to crimes; expanding the crime of unlawful dissemination of an intimate image to include certain acts relating to the distribution of certain photorealistic images, digital images, computer images and computer-generated images; providing an exception to the crime of unlawful dissemination of an intimate image for persons who are less than 18 years of age; revising the definition of \"intimate image\"; providing penalties; and providing other matters properly relating thereto.",
       "enacted_date": "2025-06-05",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2025-10-01",
       "topics": [
         "AI-generated intimate images",
         "Deepfakes"
@@ -4972,7 +4972,7 @@
       "title": "AN ACT relating to crimes; expanding certain prohibitions relating to pornography involving minors; revising the penalties for certain crimes relating to pornography involving minors; and providing other matters properly relating thereto.",
       "enacted_date": "2025-06-06",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2025-10-01",
       "topics": [
         "AI-generated child sexual abuse material",
         "Deepfakes"
@@ -5001,7 +5001,7 @@
       "title": "Directs the director of the office of information technology services to conduct a study on the use of biometric identifying technology; prohibits the use of biometric identifying technology in schools until July 1, 2022 or until the commissioner of education authorizes such purchase or…",
       "enacted_date": "2021-01-28",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2020-12-22",
       "topics": [
         "Facial recognition",
         "AI in education",
@@ -5017,7 +5017,7 @@
       "title": "Enacts into law major components of legislation necessary to implement the state public protection and general government budget for the 2025-2026 state fiscal year",
       "enacted_date": "2025-05-09",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2025-07-08",
       "topics": [
         "AI-generated child sexual abuse material",
         "Deepfakes"
@@ -5283,7 +5283,7 @@
       "title": "Establishes the right of publicity and provides for a private right of action for unlawful dissemination or publication of a sexually explicit depiction of an individual",
       "enacted_date": "2020-11-30",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2021-05-29",
       "topics": [
         "Digital likeness and voice",
         "AI-generated intimate images",
@@ -5329,13 +5329,13 @@
       "title": "Prohibits artificial intelligence companions from using features which are considered unsafe for minors",
       "enacted_date": "2026-10-28",
       "enacted_date_source": "last_action",
-      "effective_date": null,
+      "effective_date": "2027-01-01",
       "topics": [
         "Chatbots and consumer AI",
         "AI disclosure and transparency"
       ],
       "page_url": "https://www.ailawsbystate.com/law/NY/s-9051-prohibits-artificial-intelligence-chatbots-from-using-features-which-are",
-      "official_text_url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S9051?summary=&detail="
+      "official_text_url": "https://www.nysenate.gov/legislation/bills/2025/S9051"
     },
     {
       "jurisdiction_code": "NY",
@@ -5359,7 +5359,7 @@
       "title": "Provides for the registration and duties of model management companies; provides complaint procedures and penalties for violations",
       "enacted_date": "2024-12-21",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2025-06-19",
       "topics": [
         "Digital likeness and voice",
         "AI in hiring and work"
@@ -5912,7 +5912,7 @@
       "title": "An Act to establish provisions for the operation of automated motor vehicles.",
       "enacted_date": "2024-02-12",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2024-07-01",
       "topics": [
         "Self-driving vehicles"
       ],
@@ -5926,7 +5926,7 @@
       "title": "An Act to prohibit the use of a deepfake to influence an election and to provide a penalty therefor.",
       "enacted_date": "2025-03-25",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2025-07-01",
       "topics": [
         "AI in political ads",
         "Deepfakes"
@@ -5941,7 +5941,7 @@
       "title": "An Act to revise a provision related to criminal invasions of privacy, prohibit the creation and distribution of digitally fabricated material of an identifiable individual, and provide penalties therefor.",
       "enacted_date": "2026-03-16",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2026-07-01",
       "topics": [
         "AI-generated intimate images",
         "Deepfakes"
@@ -5956,7 +5956,7 @@
       "title": "An Act to revise provisions related to the possession, distribution, and manufacture of child pornography.",
       "enacted_date": "2024-02-12",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2024-07-01",
       "topics": [
         "AI-generated child sexual abuse material"
       ],
@@ -6587,7 +6587,7 @@
       "title": "Consolidated Appropriations Act, 2021 (Division U, Title I: AI in Government Act of 2020)",
       "enacted_date": "2020-12-27",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2020-12-27",
       "topics": [
         "Government use of AI"
       ],
@@ -6601,7 +6601,7 @@
       "title": "National Defense Authorization Act for Fiscal Year 2024 (Division A, Title XV, Subtitle E: Artificial Intelligence)",
       "enacted_date": "2023-12-22",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2023-12-22",
       "topics": [
         "Government use of AI",
         "Deepfakes",
@@ -6617,7 +6617,7 @@
       "title": "Servicemember Quality of Life Improvement and National Defense Authorization Act for Fiscal Year 2025 (Division A, Title XV, Subtitle D: Artificial Intelligence)",
       "enacted_date": "2024-12-23",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2024-12-23",
       "topics": [
         "Government use of AI"
       ],
@@ -6631,7 +6631,7 @@
       "title": "William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Division E: National Artificial Intelligence Initiative Act of 2020)",
       "enacted_date": "2021-01-01",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2021-01-01",
       "topics": [
         "Broad AI governance",
         "Government use of AI"
@@ -6646,7 +6646,7 @@
       "title": "James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 (Division G, Title LXXII, Subtitle B: Advancing American AI Act)",
       "enacted_date": "2022-12-23",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2022-12-23",
       "topics": [
         "Government use of AI",
         "AI disclosure and transparency"
@@ -6661,7 +6661,7 @@
       "title": "National Defense Authorization Act for Fiscal Year 2026 (Division A, Title XV, Subtitle D: Artificial Intelligence; Division F, Title LXVI, Subtitle A: Artificial Intelligence)",
       "enacted_date": "2025-12-18",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2025-12-18",
       "topics": [
         "Government use of AI",
         "Frontier AI models"
@@ -6692,7 +6692,7 @@
       "title": "National Defense Authorization Act for Fiscal Year 2020 (deepfake and machine-manipulated media provisions, Division E secs. 5709 and 5724)",
       "enacted_date": "2019-12-20",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2019-12-20",
       "topics": [
         "Deepfakes",
         "AI in political ads"
@@ -6707,7 +6707,7 @@
       "title": "Artificial Intelligence Training for the Acquisition Workforce Act (AI Training Act)",
       "enacted_date": "2022-10-17",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2022-10-17",
       "topics": [
         "Government use of AI"
       ],
@@ -6721,7 +6721,7 @@
       "title": "Identifying Outputs of Generative Adversarial Networks Act (IOGAN Act)",
       "enacted_date": "2020-12-23",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2020-12-23",
       "topics": [
         "Deepfakes"
       ],
@@ -6794,7 +6794,7 @@
       "title": "Autonomous Vehicle Regulations",
       "enacted_date": "2019-03-29",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2019-05-14",
       "topics": [
         "Self-driving vehicles"
       ],
@@ -6839,7 +6839,7 @@
       "title": "Intimate Image Distribution Prohibition",
       "enacted_date": "2021-03-16",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2021-05-05",
       "topics": [
         "AI-generated intimate images",
         "Deepfakes"
@@ -7131,7 +7131,7 @@
       "title": "Governmental Use of Facial Recognition Technology",
       "enacted_date": "2021-03-16",
       "enacted_date_source": "reviewed",
-      "effective_date": null,
+      "effective_date": "2021-05-05",
       "topics": [
         "Facial recognition",
         "AI in law enforcement",

@@ -1,8 +1,8 @@
 {
   "source": "AI Laws by State",
   "url": "https://www.ailawsbystate.com/press/embeds",
-  "as_of": "2026-11-09",
-  "generated_at": "2026-11-09T21:25:42.669498Z",
+  "as_of": "2026-11-16",
+  "generated_at": "2026-11-16T21:02:35.574803Z",
   "definition": "https://www.ailawsbystate.com/methodology#what-counts",
   "license": {
     "name": "CC BY 4.0",
@@ -10,8 +10,8 @@
     "attribution": "AI Laws by State (ailawsbystate.com)"
   },
   "totals": {
-    "all": 536,
-    "states_dc": 526,
+    "all": 532,
+    "states_dc": 522,
     "federal": 10,
     "other": 0,
     "states_with": 49,
@@ -5966,21 +5966,6 @@
     {
       "jurisdiction_code": "TN",
       "jurisdiction": "Tennessee",
-      "bill_number": "HB 1455",
-      "title": "Computers and Electronic Processing - As enacted, requires TACIR to study artificial intelligence and submit a report to the governor and both speakers by January 31, 2027. - Amends TCA Title 29; Title 33; Title 39 and Title 47.",
-      "enacted_date": "2026-05-27",
-      "enacted_date_source": "reviewed",
-      "effective_date": "2026-05-22",
-      "topics": [
-        "Chatbots and consumer AI",
-        "Government use of AI"
-      ],
-      "page_url": "https://www.ailawsbystate.com/law/TN/hb-1455-criminal-offenses-as-introduced-creates-a-class-a-felony-offense-of",
-      "official_text_url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB1455&ga=114"
-    },
-    {
-      "jurisdiction_code": "TN",
-      "jurisdiction": "Tennessee",
       "bill_number": "HB1316",
       "title": "AN ACT to amend Tennessee Code Annotated, Section 2-7-112 and Title 55, Chapter 50, relative to licenses.",
       "enacted_date": "2025-04-28",
@@ -6023,21 +6008,6 @@
       ],
       "page_url": "https://www.ailawsbystate.com/law/TN/hb1513-an-act-to-amend-tennessee-code-annotated-title-2-chapter-19-relative-to",
       "official_text_url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB1513&ga=114"
-    },
-    {
-      "jurisdiction_code": "TN",
-      "jurisdiction": "Tennessee",
-      "bill_number": "HB1946",
-      "title": "AN ACT to amend Tennessee Code Annotated, Title 29; Title 37 and Title 47, relative to artificial intelligence.",
-      "enacted_date": "2026-05-27",
-      "enacted_date_source": "reviewed",
-      "effective_date": "2026-05-22",
-      "topics": [
-        "Chatbots and consumer AI",
-        "Government use of AI"
-      ],
-      "page_url": "https://www.ailawsbystate.com/law/TN/hb1946-an-act-to-amend-tennessee-code-annotated-title-29-title-37-and-title-47",
-      "official_text_url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB1946&ga=114"
     },
     {
       "jurisdiction_code": "TN",
@@ -6145,22 +6115,6 @@
     {
       "jurisdiction_code": "TN",
       "jurisdiction": "Tennessee",
-      "bill_number": "SB1624",
-      "title": "AN ACT to amend Tennessee Code Annotated, Title 2, Chapter 19, relative to the Transparency for Deepfakes in Political Advertising Act.",
-      "enacted_date": "2026-03-30",
-      "enacted_date_source": "reviewed",
-      "effective_date": "2026-07-01",
-      "topics": [
-        "AI in political ads",
-        "Deepfakes",
-        "AI disclosure and transparency"
-      ],
-      "page_url": "https://www.ailawsbystate.com/law/TN/sb1624-an-act-to-amend-tennessee-code-annotated-title-2-chapter-19-relative-to",
-      "official_text_url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1624&ga=114"
-    },
-    {
-      "jurisdiction_code": "TN",
-      "jurisdiction": "Tennessee",
       "bill_number": "SB1700",
       "title": "AN ACT to amend Tennessee Code Annotated, Title 29; Title 37 and Title 47, relative to artificial intelligence.",
       "enacted_date": "2026-05-27",
@@ -6186,21 +6140,6 @@
       ],
       "page_url": "https://www.ailawsbystate.com/law/TN/sb1711-ai-use-policies-schools-higher-education",
       "official_text_url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default.aspx?BillNumber=SB1711&GA=113"
-    },
-    {
-      "jurisdiction_code": "TN",
-      "jurisdiction": "Tennessee",
-      "bill_number": "SB1815",
-      "title": "AN ACT to amend Tennessee Code Annotated, Title 39, relative to criminal offenses.",
-      "enacted_date": "2026-05-22",
-      "enacted_date_source": "reviewed",
-      "effective_date": "2026-07-01",
-      "topics": [
-        "Chatbots and consumer AI",
-        "AI liability"
-      ],
-      "page_url": "https://www.ailawsbystate.com/law/TN/sb1815-an-act-to-amend-tennessee-code-annotated-title-39-relative-to-criminal",
-      "official_text_url": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=SB1815&ga=114"
     },
     {
       "jurisdiction_code": "TN",

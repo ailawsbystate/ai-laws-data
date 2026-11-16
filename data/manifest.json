@@ -1,11 +1,11 @@
 {
   "source": "https://www.ailawsbystate.com/press/embeds",
-  "as_of": "2026-11-09",
-  "fetched_at": "2026-11-09T21:26:56Z",
-  "laws": 536,
+  "as_of": "2026-11-16",
+  "fetched_at": "2026-11-16T21:02:35Z",
+  "laws": 532,
   "totals": {
-    "all": 536,
-    "states_dc": 526,
+    "all": 532,
+    "states_dc": 522,
     "federal": 10,
     "other": 0,
     "states_with": 49,
@@ -16,10 +16,10 @@
     "url": "https://creativecommons.org/licenses/by/4.0/",
     "attribution": "AI Laws by State (ailawsbystate.com)"
   },
-  "fingerprint": "cb8d06738c2e202fd6348f857ff2fb7db5ec04180713edd0712ccc53d96e4051",
+  "fingerprint": "abe3eee262dd1ca501e3801a089627f3c325915aef54ff55870d304f80e08f10",
   "sha256": {
-    "ai-laws.csv": "66856d7b335b77abd7eee785025ea2d1cf6a4af75c439e1756dd1829f33c7d02",
-    "ai-laws-by-state.csv": "71c2da4a551ed697f5bd8ecc9a9184e249d52a226ac591d0f8c7eb689b26e3ce",
-    "ai-laws.json": "8dd40cf95e55f06e2a3a63d08c42607329e320bd75405486400a94a8171a9cff"
+    "ai-laws.csv": "42b12b96eddd9c051bf4a7514c151ce1566b1761ed30d55d6880b5be2138e182",
+    "ai-laws-by-state.csv": "f77ec427cc9514638121612fbf1657d88c2aa9361a7b1a92a07236ed15a62734",
+    "ai-laws.json": "dff3563d66c4c27012a340c4821b774d2e0d7cc710e485b30ce501c0ae238674"
   }
 }

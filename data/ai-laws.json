@@ -1,8 +1,8 @@
 {
   "source": "AI Laws by State",
   "url": "https://www.ailawsbystate.com/press/embeds",
-  "as_of": "2026-11-16",
-  "generated_at": "2026-11-16T21:02:35.574803Z",
+  "as_of": "2026-11-23",
+  "generated_at": "2026-11-23T22:39:34.480353Z",
   "definition": "https://www.ailawsbystate.com/methodology#what-counts",
   "license": {
     "name": "CC BY 4.0",
@@ -2347,7 +2347,7 @@
         "Automated decision systems"
       ],
       "page_url": "https://www.ailawsbystate.com/law/GA/sb-444-private-review-agents-certain-decisions-with-regard-to-the-provision-of",
-      "official_text_url": "https://www.legis.ga.gov/legislation/72666"
+      "official_text_url": "http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl"
     },
     {
       "jurisdiction_code": "GA",
@@ -2362,7 +2362,7 @@
         "AI disclosure and transparency"
       ],
       "page_url": "https://www.ailawsbystate.com/law/GA/sb-540-online-internet-safety-certain-disclosures-related-to-conversational-ai",
-      "official_text_url": "https://www.legis.ga.gov/legislation/73452"
+      "official_text_url": "http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl"
     },
     {
       "jurisdiction_code": "GA",
